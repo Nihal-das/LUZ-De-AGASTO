@@ -21,6 +21,7 @@
         text-align: center;
         z-index: 3;
         opacity: 0;
+        width: 80%;
     }
     .title-screen h1 {
         font-size: 3rem;
